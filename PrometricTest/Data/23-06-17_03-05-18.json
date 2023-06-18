@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "string",
+    "Radius": 0.0,
+    "Perimeter": 0.0,
+    "Area": 0.0,
+    "CreatedDate": "2023-06-17T13:04:48.317Z"
+  },
+  {
+    "Name": "string",
+    "Radius": 0.0,
+    "Perimeter": 0.0,
+    "Area": 0.0,
+    "CreatedDate": "2023-06-17T13:04:48.317Z"
+  },
+  {
+    "Name": "string",
+    "Radius": 0.0,
+    "Perimeter": 0.0,
+    "Area": 0.0,
+    "CreatedDate": "2023-06-17T13:04:48.317Z"
+  },
+  {
+    "Name": "string",
+    "CreatedDate": "2023-06-17T13:04:54.967Z",
+    "Width": 0.0,
+    "Length": 0.0,
+    "Perimeter": 0.0,
+    "Area": 0.0
+  },
+  {
+    "Name": "string",
+    "CreatedDate": "2023-06-17T13:04:54.967Z",
+    "Width": 0.0,
+    "Length": 0.0,
+    "Perimeter": 0.0,
+    "Area": 0.0
+  },
+  {
+    "Name": "string",
+    "CreatedDate": "2023-06-17T13:04:54.967Z",
+    "Width": 0.0,
+    "Length": 0.0,
+    "Perimeter": 0.0,
+    "Area": 0.0
+  }
+]
